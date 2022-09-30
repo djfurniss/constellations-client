@@ -21,6 +21,8 @@ function App() {
       });
   }, []);
 
+  console.log(constellations)
+
   return (
     <main>
       <Header
